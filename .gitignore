@@ -1,0 +1,11 @@
+# Environment variables (private keys & secrets)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
